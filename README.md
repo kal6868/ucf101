@@ -13,6 +13,7 @@
 ![캡처5](https://user-images.githubusercontent.com/89456014/180009251-fe6b4f2d-263c-4ed9-bcd9-0b2d4c94495e.PNG)
 ![캡처6](https://user-images.githubusercontent.com/89456014/180009254-c385998e-6652-4578-992e-cb95db5e1948.PNG)
 ![캡처7](https://user-images.githubusercontent.com/89456014/180009259-3a220913-e0b5-42ca-923e-dd93f854478a.PNG)
+* crop, cutmix, augmentation
 <br/></br>
 # Model Training
 ![캡처8](https://user-images.githubusercontent.com/89456014/180009265-16d4b7a1-750b-4696-934d-b9256682c90d.PNG)
